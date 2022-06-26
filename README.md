@@ -41,4 +41,4 @@ And a Two sided hypothesis test were applied between every two pair of classifie
 | 0.000002 | 0.000006 | 0.000057 | AD       | 0.0      |
 | 0.000002 | 0.417413 | 0.058782 | 0.000032 | KMC      |
 
-More details of the work can be seen at (Report.pdf)
+More details of the work can be seen at [report](https://github.com/ivarejao/basic-classifiers-applied-into-wine-dataset/blob/main/Report.pdf)
